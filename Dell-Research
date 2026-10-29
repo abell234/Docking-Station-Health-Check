@@ -7,8 +7,8 @@ There are many types of Dell docking stations.
 
 1. Legacy E-Port Docking Stations 
 Description: 
-Legacy Dell E-Port docking stations are designed to be compatible with the older Dell Latitude and Precision laptop models. 
-These laptops have a docking connector on the underside of the computer. 
+Legacy Dell E-Port docking stations are designed to work with older Dell Latitude and Precision laptop models. 
+These laptops have a docking connector on the underside. 
 Unlike the modernized USB-C docks, these docking stations can connect directly to the laptop without requiring a separate docking cable.
 The E-Port docking stations include 2 desktop configurations: the standard E-Port Replicator, which provides essential peripheral connectivity,
 and the expanded E-Port Plus replicator, which offers more ports and support for monitor setups. 
@@ -39,7 +39,18 @@ https://www.dell.com/support/kbdoc/en-us/000123888/how-to-troubleshoot-performan
 https://www.dell.com/support/manuals/en-us/dell-wd19-130w-dock/wd19_userguide
 
 
+3. Thunderbolt Docking Stations 
+Descriptions: Thunderbolt docking stations use PCle (Peripheral Component Interconnect Express)
+protocol to deliver high bandwidth, fast data transfers, and high resolution display support for workspaces that demand
+high performance and reliable connectivity for professionals with high workloads.
 
+Examples: 
+Dell WD19TB / WD19TBS: High-throughput Thunderbolt 3 docking stations providing dual-4K or single-5K display support and expanded I/O bandwidth.
+Dell TB16: Legacy Thunderbolt 3 docking station offering broad display output compatibility, including HDMI, DisplayPort, Mini DisplayPort, and VGA.
+Dell WD22TB4: Thunderbolt 4 docking station offering high-speed data transfer, support for multiple high-resolution displays, and expanded connectivity
+for monitors, USB peripherals, and Ethernet.
+
+Sources: 
 
 
 
