@@ -1,5 +1,9 @@
 Dell Docking Station Research 
 
+Overview: 
+This research covers the features and laptop configurations of multiple Dell docking stations. The purpose of this research
+is to understand how the Dell docking station models have changed over time. This research will help with identifying and resolving
+common docking station issues.  
 
 Background on Dell docking stations:
 
@@ -15,9 +19,9 @@ and the expanded E-Port Plus replicator, which offers more ports and support for
 
     Examples:
  Dell E-Port Replicator 
- Model: PrO1X
+ Model: Pr01X
  Dell E-Port Plus Replicator 
- Model: PrO2X
+ Model: Pr02X
 Sources:
 https://www.dell.com/support/kbdoc/en-us/000124295/guide-to-dell-docking-stations
 https://dl.dell.com/manuals/all-products/esuprt_electronics/esuprt_docking_stations/e-prt-pls_user%27s%20guide_en-us.pdf
@@ -54,6 +58,21 @@ Sources:
 https://dl.dell.com/topicspdf/dell-wd19tb-dock_users-guide3_en-us.pdf
 https://www.dell.com/support/product-details/en-us/product/wd22tb4-dock/resources/manuals
 https://www.dell.com/support/product-details/en-us/product/dell-thunderbolt-dock-tb16/resources/manuals
+
+Troubleshooting Checks:
+-Identify the dock model and check the compatibility with the laptop
+-Check to make sure that the power adapter and cables are connected securely 
+-Check to confirm that the laptop port supports the dock's required features
+-If you are having monitor problems, make sure to check the monitor's selected input and cable connections 
+-IF you are having problems with the dock, check to make sure the
+required software drivers and dock updates are installed 
+
+ Research Assistance and Acknowledgments
+
+- Grammarly: Used to assist with grammar, spelling, and writing clarity.
+- ChatGPT: Used to help identify potential research sources.
+The technical research and documentation were reviewed and organized for the Docking Station Health Check project.
+
 
 
 
