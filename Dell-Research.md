@@ -1,6 +1,6 @@
-##Dell Docking Station Research 
+## Dell Docking Station Research 
 
-##Overview: 
+## Overview: 
 This research covers the features and laptop compatibility of multiple Dell docking stations. The purpose of this research
 is to understand how the Dell docking station models have changed over time. This research will help with identifying and resolving
 common docking station issues.  
@@ -77,7 +77,7 @@ Sources:
 
 -https://www.dell.com/support/product-details/en-us/product/dell-thunderbolt-dock-tb16/resources/manuals
 
-##Troubleshooting Checks:
+## Troubleshooting Checks:
 
 -Identify the dock model and check the compatibility with the laptop
 
@@ -90,7 +90,7 @@ Sources:
 -If you are having problems with the dock, check to make sure the
 required software, drivers, and dock updates are installed 
 
- ##Research Assistance and Acknowledgments
+ ## Research Assistance and Acknowledgments
 
 - Grammarly: Used to assist with grammar, spelling, and writing clarity.
   
