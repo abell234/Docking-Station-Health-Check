@@ -14,6 +14,30 @@ a USB-C connection.
 
 Examples: 
 
--HP USB-C Dock G5: This dock provides USB-A, USB-C, DisplayPort, HDMI, and Ethernet connections.
+-HP Elite USB-C Dock: This is the earlier USB-C docking station designed to expand connectivity 
+for compatibility with HP laptops.
 
--HP Elite USB-C Docking Station: This docking station integrates display outputs. 
+-HP USB-C DOCK G5: This is a more versatile USB-C docking station designed to support HP and non-HP
+laptops. 
+
+
+2. Universal USB-C/ Hybrid Docks
+ Hybrid docks are flexible docking stations built to work for any laptop. 
+
+Examples:
+HP USB-C/A Universal Dock G2:
+Connects natively via USB-C or through a USB-A adapter. 
+Supports up to three 4K displays when operating over USB-C,
+or up to two 4K displays when attached via USB-A.
+USB-C connections support host Power Delivery; 
+legacy USB-A connections are limited strictly to data transfer 
+and video output without host charging.
+
+3. Thunderbolt Docking Stations
+Thunderbolt docks are heavy-duty docking stations that are built for high-performance laptops. They can handle larger amounts of data and power than 
+the standard USB-C docks, which makes them ideal for running multiple high-resolution monitors or transferring larger files. 
+
+Examples: 
+HP Thunderbolt Dock G2/G4: These are square, compact docking stations that connect using a thick, high-speed Thunderbolt cable. 
+
+
