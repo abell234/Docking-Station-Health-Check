@@ -39,6 +39,7 @@ Sources:
 Description: Thunderbolt docking stations are designed for laptops that support Thunderbolt technology. They provide a fast connection for monitors, USB accessories, and wired internet connections. These docking stations are useful for workspaces that need to connect to several monitors or transfer large sets of data. 
 
 Examples: 
+
 ThinkPad Universal Thunderbolt 4 Dock: This docking station supports compatible Thunderbolt 4 and USB-C laptops. It provides connections for multiple monitors, USB accessories, and wired internet. 
 
 ThinkPad Thunderbolt 4 Workstation Dock(40B0): This was designed for more demanding ThinkPad workspaces. It supports multiple high-resolution monitors and provides additional charging power for compatible laptops. 
