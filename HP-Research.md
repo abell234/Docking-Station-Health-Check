@@ -64,21 +64,21 @@ Sources:
 
 -https://support.hp.com/ca-en/document/ish_6213504-6213991-16
 
-Troubleshooting Checks:
+# Troubleshooting Checks:
 
-Identify the docking station model and verify its compatibility with the laptop.
+-Identify the docking station model and verify its compatibility with the laptop.
 
-Check that the power adapter and connecting cables are securely connected.
+-Check that the power adapter and connecting cables are securely connected.
 
-Confirm that the laptop's USB-C or Thunderbolt port supports the features required by the docking station.
+-Confirm that the laptop's USB-C or Thunderbolt port supports the features required by the docking station.
 
-If external monitors are not working, check the monitor's selected input, cable connections, and supported display configuration.
+-If external monitors are not working, check the monitor's selected input, cable connections, and supported display configuration.
 
-Verify that the required drivers, firmware, and docking station updates are installed.
+-Verify that the required drivers, firmware, and docking station updates are installed.
 
-Research Assistance and Acknowledgments:
+# Research Assistance and Acknowledgments:
 
-Grammarly: Used to assist with grammar, spelling, and writing clarity.
+-Grammarly: Used to assist with grammar, spelling, and writing clarity.
 
-ChatGPT: Used to help identify potential research sources.
+-ChatGPT: Used to help identify potential research sources.
 
